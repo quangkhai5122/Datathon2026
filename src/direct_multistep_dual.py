@@ -28,7 +28,6 @@ Expected data files:
 Outputs:
 - outputs/submission_direct_rev_cogs.csv
 - outputs/submission_direct_rev_ratio.csv
-- outputs/direct_multistep_summary.csv
 """
 
 from __future__ import annotations
